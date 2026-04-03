@@ -1,0 +1,8 @@
+ streamlit
+torch
+torchvision
+numpy
+pillow
+matplotlib
+pytorch-grad-cam
+huggingface_hub
